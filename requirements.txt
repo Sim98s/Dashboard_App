@@ -9,3 +9,4 @@ timedelta
 warnings
 stats
 LinearRegression
+scipy
