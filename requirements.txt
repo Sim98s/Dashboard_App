@@ -4,9 +4,4 @@ numpy
 plotly
 yfinance
 matplotlib
-datetim
-timedelta
-warnings
-stats
-LinearRegression
 scipy
